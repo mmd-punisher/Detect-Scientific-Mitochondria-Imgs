@@ -1,8 +1,6 @@
 
 # Detection of Mitochondria Images Using SAM Model & U-Net Custom Model
 
-## Master
-- Dr. Jeddisaravi
 
 ## Student
 - Mohammad Mousapour  
